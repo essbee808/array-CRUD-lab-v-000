@@ -1,5 +1,3 @@
-new_array = ["red", "orange", "yellow", "blue"]
-
 def create_an_empty_array
   []
 end
