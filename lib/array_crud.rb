@@ -1,4 +1,4 @@
-
+array = ["laptop", "mouse", "keyboard"]
 
 def create_an_empty_array
   []
